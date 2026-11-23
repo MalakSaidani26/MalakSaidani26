@@ -2,43 +2,77 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-    <img src="./dark.svg" alt="Malak Saidani — Data Science and Software Development student, NLP and RAG">
+    <img src="./dark.svg" alt="Malak Saidani, étudiante en Data Science et Software Development">
   </picture>
 </p>
 
-## 👋 About
+## 👋 À propos
 
-I'm a Master 2 student in **Data Science & Software Development** at ESEN (Manouba, Tunisia). My focus is **NLP and generative AI** (LLMs, RAG), backed by a software-engineering foundation in web services and APIs.
+Étudiante en Master 2 **Data Science & Software Development** à l'ESEN (Manouba, Tunis). Diplômée en 2025 d'une Licence en Informatique de Gestion (spécialité Business Intelligence), je recherche un **stage de fin d'études (PFE)** en Data Science.
 
-## 🎓 Education
+## 💼 Expérience
 
-- **Master 2, Data Science & Software Development**: ESEN, Manouba
-- **Licence in Business Computing (Informatique de Gestion)**: Business Intelligence track
+- **Stagiaire, TOPNET** (août – sept. 2026) : Direction Marché d'Entreprise, Département Administration des Ventes (stage saisonnier)
+- **Stagiaire en Business Intelligence, Tunisie Télécom** (févr. – avr. 2025) : projet de fin d'études de la licence : entrepôt de données (modèle en étoile), ETL avec Talend, prédiction du churn clients (Machine Learning), reporting des KPI
 
-## 🚀 Projects
+## 🎓 Formation
 
-| Project | Description |
+- **Master Data Science & Software Development** : ESEN, Manouba (2026 – en cours)
+- **Licence en Informatique de Gestion (Business Intelligence)** : ESEN, Manouba (2022 – 2025)
+
+## 🚀 Projets
+
+| Projet | Description |
 |---|---|
-| **RAG Educational Assistant** | Summaries, quizzes and a RAG chatbot, with the RAG exposed as a web API |
-| **US Road Accidents (Big Data)** | Analysis with Hadoop / MapReduce |
-| **api_restful** | RESTful API in Java |
-| **Covoiturage** | Carpooling application in C# |
+| **DataMart Northwind** | Schéma en étoile sous MySQL, jobs ETL Talend, tableau de bord Power BI multi-pages avec mesures DAX |
+| **Prédiction du chômage en Tunisie** | Modèles de régression en R à partir d'indicateurs macroéconomiques, ggplot2 et R Markdown |
+| **Marché immobilier en France** | Nettoyage avec pandas et NumPy, tendances des prix avec matplotlib et seaborn |
+| **Performances des fabricants VanArsdel** | Tableau de bord Power BI interactif sur les revenus et la croissance |
+| **Site e-commerce** | Boutique de cosmétiques en ligne : développement web et conception de la base de données |
+| **Application de gestion commerciale** | Application Java modélisée en UML (clients, articles, commandes) |
 
-<!-- Once each repository is public, add its link in the table above. -->
+<!-- Quand chaque dépôt est public, ajoute son lien dans le tableau ci-dessus. -->
 
 ## 🛠️ Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Talend](https://img.shields.io/badge/Talend-FF6D70?style=flat&logo=talend&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-<h2 align="center">📊 GitHub Contributions</h2>
+## 📜 Certifications
+
+<details>
+<summary>Voir les 13 certifications</summary>
+
+- Apprendre l'analyse des données, parties 1 et 2 (LinkedIn Learning)
+- Power BI for Beginners (Simplilearn)
+- R Programming for Beginners (Simplilearn)
+- Introduction to DAX in Power BI (DataCamp)
+- Introduction to Python, Intermediate Python, Data Manipulation with pandas (DataCamp)
+- MongoDB Associate Developer, Python
+- Data Science Essentials with Python, Data Analytics Essentials (Cisco Networking Academy)
+- Intro to NLP for AI (365 DataScience)
+- Generative AI and LLMs: Architecture and Data Preparation (Coursera, IBM)
+
+</details>
+
+## 🌍 Langues et vie associative
+
+- Arabe, Français, Anglais
+- Membre du Club Android, ESEN (2022)
+- Organisatrice de l'événement « HAKA4DATA » (19-20 novembre 2022), relations publiques
+
+<h2 align="center">📊 Contributions GitHub</h2>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
@@ -46,11 +80,12 @@ I'm a Master 2 student in **Data Science & Software Development** at ESEN (Manou
     <source media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/MalakSaidani26/github-snake/output/github-snake.svg" />
     <img src="https://raw.githubusercontent.com/MalakSaidani26/github-snake/output/github-snake.svg"
-      alt="GitHub Contribution Snake" width="100%" />
+      alt="Snake des contributions GitHub" width="100%" />
   </picture>
 </p>
 
-## 📫 Connect
+## 📫 Me contacter
 
-- GitHub: [@MalakSaidani26](https://github.com/MalakSaidani26)
-<!-- Add your LinkedIn / email here when you want them shown. -->
+- LinkedIn : [malak-saidani](https://www.linkedin.com/in/malak-saidani-019b68334)
+- Email : malak.saidani@esen.tn
+- GitHub : [@MalakSaidani26](https://github.com/MalakSaidani26)
