@@ -21,15 +21,14 @@
 - **Licence en Informatique de Gestion (Business Intelligence)** : ESEN, Manouba (2022 – 2025)
 
 ## 🚀 Projets
-
 | Projet | Description |
 |---|---|
-| **DataMart Northwind** | Schéma en étoile sous MySQL, jobs ETL Talend, tableau de bord Power BI multi-pages avec mesures DAX |
-| **Prédiction du chômage en Tunisie** | Modèles de régression en R à partir d'indicateurs macroéconomiques, ggplot2 et R Markdown |
-| **Marché immobilier en France** | Nettoyage avec pandas et NumPy, tendances des prix avec matplotlib et seaborn |
-| **Performances des fabricants VanArsdel** | Tableau de bord Power BI interactif sur les revenus et la croissance |
-| **Site e-commerce** | Boutique de cosmétiques en ligne : développement web et conception de la base de données |
-| **Application de gestion commerciale** | Application Java modélisée en UML (clients, articles, commandes) |
+| **Prédiction du churn – Tunisie Telecom (PFE)** | Analyse et préparation des données avec Talend et MySQL, conception d'un Data Warehouse en schéma étoile, développement et évaluation de modèles d'apprentissage automatique pour prédire le désabonnement des clients et création de tableaux de bord interactifs avec Power BI. |
+| **Prédiction du chômage en Tunisie** | Analyse des indicateurs macroéconomiques et développement de modèles de régression avec R. Visualisation des données avec ggplot2 et génération de rapports avec R Markdown. |
+| **Application de covoiturage** | Développement d'une application desktop en C# WPF avec Entity Framework Core pour gérer les utilisateurs, les trajets, les voitures et les réservations. |
+| **DataMart Northwind** | Conception d'un entrepôt de données en schéma étoile avec MySQL, intégration des données via Talend et création de tableaux de bord interactifs avec Power BI. |
+| **TechShop** | Développement d'un site e-commerce avec ASP.NET Core intégrant un panier, un espace d'administration et un chatbot. |
+| **Beauty Store** | Développement d'une boutique en ligne de produits cosmétiques avec PHP, MySQL et architecture MVC. |
 
 <!-- Quand chaque dépôt est public, ajoute son lien dans le tableau ci-dessus. -->
 
