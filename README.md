@@ -29,6 +29,7 @@
 | **DataMart Northwind** | Conception d'un entrepôt de données en schéma étoile avec MySQL, intégration des données via Talend et création de tableaux de bord interactifs avec Power BI. |
 | **TechShop** | Développement d'un site e-commerce avec ASP.NET Core intégrant un panier, un espace d'administration et un chatbot. |
 | **Beauty Store** | Développement d'une boutique en ligne de produits cosmétiques avec PHP, MySQL et architecture MVC. |
+| **Analyse des accidents routiers (Big Data)**| Traitement de 7,7 millions d'accidents américains (3 Go) avec Hadoop (HDFS, YARN) et MapReduce en Python, pour analyser l'impact de la météo sur le nombre et la gravité des accidents par état. |
 
 <!-- Quand chaque dépôt est public, ajoute son lien dans le tableau ci-dessus. -->
 
@@ -41,6 +42,7 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Talend](https://img.shields.io/badge/Talend-FF6D70?style=flat&logo=talend&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
