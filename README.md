@@ -30,7 +30,7 @@
 | **TechShop** | Développement d'un site e-commerce avec ASP.NET Core intégrant un panier, un espace d'administration et un chatbot. |
 | **Beauty Store** | Développement d'une boutique en ligne de produits cosmétiques avec PHP, MySQL et architecture MVC. |
 | **Analyse des accidents routiers (Big Data)**| Traitement de 7,7 millions d'accidents américains (3 Go) avec Hadoop (HDFS, YARN) et MapReduce en Python, pour analyser l'impact de la météo sur le nombre et la gravité des accidents par état. |
-| ** Prédiction de survie sur le Titanic**| Projet de Machine Learning en Python : nettoyage des données et comparaison de 3 modèles (KNN, Random Forest, XGBoost). Meilleur résultat : **81 %** d'accuracy avec le Random Forest. |
+| **Prédiction de survie sur le Titanic**| Projet de Machine Learning en Python : nettoyage des données et comparaison de 3 modèles (KNN, Random Forest, XGBoost). Meilleur résultat : **81 %** d'accuracy avec le Random Forest. |
  
 
 <!-- Quand chaque dépôt est public, ajoute son lien dans le tableau ci-dessus. -->
